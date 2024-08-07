@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0FDF330B-FA6B-4A04-9A28-9CC8EA5619D8}</ProjectGuid>
+    <ProjectGuid>{BAD11835-55C2-4CF9-8727-B8495D844E63}</ProjectGuid>
     <OutputType>library</OutputType>
     <RootNamespace>MyControlUI</RootNamespace>
     <AssemblyName>MyControlUI</AssemblyName>
@@ -47,16 +47,18 @@
     <Reference Include="PresentationFramework" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Emums\enums.cs" />
+    <Page Include="MyControls\Button\Themes\FlatButtonStyle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Themes\Generic.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MyControl\Button\Implementation\CustomControl1.cs" />
-    <Compile Include="MyControl\Button\Implementation\FlatButton.cs" />
-    <Compile Include="MyControl\Button\Implementation\PathButton.cs" />
+    <Compile Include="MyControls\Button\Implementation\FlatButton.cs" />
+    <Compile Include="MyControls\enums\enums.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -80,8 +82,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="MyControl\Alert\" />
-    <Folder Include="MyControl\Button\Themes\" />
+    <Folder Include="DLL\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
