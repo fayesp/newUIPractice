@@ -1,0 +1,188 @@
+F:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Styles\RichTextEditorStyle.baml
+F:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Veiws\ColorPicker.g.cs
+F:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Veiws\RichTextEditor.g.cs
+F:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\WPFRichTextEditor_MarkupCompile.cache
+F:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\WPFRichTextEditor_MarkupCompile.lref
+F:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\bin\Debug\WPFRichTextEditor.pdb
+F:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Properties\DesignTimeResources.baml
+F:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Styles\FontComboBox.baml
+F:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Veiws\ColorPicker.baml
+F:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Veiws\RichTextEditor.baml
+F:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.g.resources
+F:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.Properties.Resources.resources
+F:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.csproj.GenerateResource.Cache
+F:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.pdb
+F:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.csprojResolveAssemblyReference.cache
+F:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Styles\ScorllViewerStyle.baml
+F:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Styles\ContextMenuStyle.baml
+F:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\bin\Debug\WPFRichTextEditor.dll
+F:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\bin\Debug\System.Net.Http.dll
+F:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\bin\Debug\System.Net.Http.xml
+F:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.dll
+H:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\bin\Debug\WPFRichTextEditor.dll
+H:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\bin\Debug\WPFRichTextEditor.pdb
+H:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Styles\ContextMenuStyle.baml
+H:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Styles\RichTextEditorStyle.baml
+H:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Styles\ScorllViewerStyle.baml
+H:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Veiws\ColorPicker.g.cs
+H:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Veiws\RichTextEditor.g.cs
+H:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\WPFRichTextEditor_MarkupCompile.cache
+H:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\WPFRichTextEditor_MarkupCompile.lref
+H:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Properties\DesignTimeResources.baml
+H:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Styles\FontComboBox.baml
+H:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Veiws\ColorPicker.baml
+H:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Veiws\RichTextEditor.baml
+H:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.g.resources
+H:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.Properties.Resources.resources
+H:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.csproj.GenerateResource.Cache
+H:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.dll
+H:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.pdb
+H:\SourceCode\Blend for VS2015\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.csprojResolveAssemblyReference.cache
+D:\WorkSpace\MySources\MyWPFSource\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Styles\ContextMenuStyle.baml
+D:\WorkSpace\MySources\MyWPFSource\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Styles\RichTextEditorStyle.baml
+D:\WorkSpace\MySources\MyWPFSource\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Styles\ScorllViewerStyle.baml
+D:\WorkSpace\MySources\MyWPFSource\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Veiws\ColorPicker.g.cs
+D:\WorkSpace\MySources\MyWPFSource\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Veiws\RichTextEditor.g.cs
+D:\WorkSpace\MySources\MyWPFSource\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WorkSpace\MySources\MyWPFSource\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\WPFRichTextEditor_MarkupCompile.cache
+D:\WorkSpace\MySources\MyWPFSource\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\WPFRichTextEditor_MarkupCompile.lref
+D:\WorkSpace\MySources\MyWPFSource\WPF版富文本编辑器\WPFRichTextEditor\bin\Debug\WPFRichTextEditor.dll
+D:\WorkSpace\MySources\MyWPFSource\WPF版富文本编辑器\WPFRichTextEditor\bin\Debug\WPFRichTextEditor.pdb
+D:\WorkSpace\MySources\MyWPFSource\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Properties\DesignTimeResources.baml
+D:\WorkSpace\MySources\MyWPFSource\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Styles\FontComboBox.baml
+D:\WorkSpace\MySources\MyWPFSource\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Veiws\ColorPicker.baml
+D:\WorkSpace\MySources\MyWPFSource\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\Veiws\RichTextEditor.baml
+D:\WorkSpace\MySources\MyWPFSource\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.g.resources
+D:\WorkSpace\MySources\MyWPFSource\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.Properties.Resources.resources
+D:\WorkSpace\MySources\MyWPFSource\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.csproj.GenerateResource.Cache
+D:\WorkSpace\MySources\MyWPFSource\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.dll
+D:\WorkSpace\MySources\MyWPFSource\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.pdb
+D:\WorkSpace\MySources\MyWPFSource\WPF版富文本编辑器\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.csprojResolveAssemblyReference.cache
+D:\WorkSpace\MySources\MyWPFSource\Zhidanfeng的个人控件库\WPFRichTextEditor\bin\Debug\ZEditor.dll
+D:\WorkSpace\MySources\MyWPFSource\Zhidanfeng的个人控件库\WPFRichTextEditor\bin\Debug\ZEditor.pdb
+D:\WorkSpace\MySources\MyWPFSource\Zhidanfeng的个人控件库\WPFRichTextEditor\obj\Debug\Styles\AutoDisappearScrollViewerStyle.baml
+D:\WorkSpace\MySources\MyWPFSource\Zhidanfeng的个人控件库\WPFRichTextEditor\obj\Debug\Styles\ContextMenuStyle.baml
+D:\WorkSpace\MySources\MyWPFSource\Zhidanfeng的个人控件库\WPFRichTextEditor\obj\Debug\Styles\RichTextEditorStyle.baml
+D:\WorkSpace\MySources\MyWPFSource\Zhidanfeng的个人控件库\WPFRichTextEditor\obj\Debug\Styles\ScorllViewerStyle.baml
+D:\WorkSpace\MySources\MyWPFSource\Zhidanfeng的个人控件库\WPFRichTextEditor\obj\Debug\Veiws\ColorPicker.g.cs
+D:\WorkSpace\MySources\MyWPFSource\Zhidanfeng的个人控件库\WPFRichTextEditor\obj\Debug\Veiws\RichTextEditor.g.cs
+D:\WorkSpace\MySources\MyWPFSource\Zhidanfeng的个人控件库\WPFRichTextEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WorkSpace\MySources\MyWPFSource\Zhidanfeng的个人控件库\WPFRichTextEditor\obj\Debug\ZEditor_MarkupCompile.cache
+D:\WorkSpace\MySources\MyWPFSource\Zhidanfeng的个人控件库\WPFRichTextEditor\obj\Debug\ZEditor_MarkupCompile.lref
+D:\WorkSpace\MySources\MyWPFSource\Zhidanfeng的个人控件库\WPFRichTextEditor\obj\Debug\Properties\DesignTimeResources.baml
+D:\WorkSpace\MySources\MyWPFSource\Zhidanfeng的个人控件库\WPFRichTextEditor\obj\Debug\Styles\FontComboBox.baml
+D:\WorkSpace\MySources\MyWPFSource\Zhidanfeng的个人控件库\WPFRichTextEditor\obj\Debug\Veiws\ColorPicker.baml
+D:\WorkSpace\MySources\MyWPFSource\Zhidanfeng的个人控件库\WPFRichTextEditor\obj\Debug\Veiws\RichTextEditor.baml
+D:\WorkSpace\MySources\MyWPFSource\Zhidanfeng的个人控件库\WPFRichTextEditor\obj\Debug\ZEditor.g.resources
+D:\WorkSpace\MySources\MyWPFSource\Zhidanfeng的个人控件库\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.Properties.Resources.resources
+D:\WorkSpace\MySources\MyWPFSource\Zhidanfeng的个人控件库\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.csproj.GenerateResource.Cache
+D:\WorkSpace\MySources\MyWPFSource\Zhidanfeng的个人控件库\WPFRichTextEditor\obj\Debug\ZEditor.dll
+D:\WorkSpace\MySources\MyWPFSource\Zhidanfeng的个人控件库\WPFRichTextEditor\obj\Debug\ZEditor.pdb
+D:\WorkSpace\MySources\MyWPFSource\WPF控件库\WPFRichTextEditor\bin\Debug\ZEditor.dll
+D:\WorkSpace\MySources\MyWPFSource\WPF控件库\WPFRichTextEditor\bin\Debug\ZEditor.pdb
+D:\WorkSpace\MySources\MyWPFSource\WPF控件库\WPFRichTextEditor\obj\Debug\Styles\AutoDisappearScrollViewerStyle.baml
+D:\WorkSpace\MySources\MyWPFSource\WPF控件库\WPFRichTextEditor\obj\Debug\Styles\ContextMenuStyle.baml
+D:\WorkSpace\MySources\MyWPFSource\WPF控件库\WPFRichTextEditor\obj\Debug\Styles\RichTextEditorStyle.baml
+D:\WorkSpace\MySources\MyWPFSource\WPF控件库\WPFRichTextEditor\obj\Debug\Styles\ScorllViewerStyle.baml
+D:\WorkSpace\MySources\MyWPFSource\WPF控件库\WPFRichTextEditor\obj\Debug\Veiws\ColorPicker.g.cs
+D:\WorkSpace\MySources\MyWPFSource\WPF控件库\WPFRichTextEditor\obj\Debug\Veiws\RichTextEditor.g.cs
+D:\WorkSpace\MySources\MyWPFSource\WPF控件库\WPFRichTextEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WorkSpace\MySources\MyWPFSource\WPF控件库\WPFRichTextEditor\obj\Debug\ZEditor_MarkupCompile.cache
+D:\WorkSpace\MySources\MyWPFSource\WPF控件库\WPFRichTextEditor\obj\Debug\ZEditor_MarkupCompile.lref
+D:\WorkSpace\MySources\MyWPFSource\WPF控件库\WPFRichTextEditor\obj\Debug\Properties\DesignTimeResources.baml
+D:\WorkSpace\MySources\MyWPFSource\WPF控件库\WPFRichTextEditor\obj\Debug\Styles\FontComboBox.baml
+D:\WorkSpace\MySources\MyWPFSource\WPF控件库\WPFRichTextEditor\obj\Debug\Veiws\ColorPicker.baml
+D:\WorkSpace\MySources\MyWPFSource\WPF控件库\WPFRichTextEditor\obj\Debug\Veiws\RichTextEditor.baml
+D:\WorkSpace\MySources\MyWPFSource\WPF控件库\WPFRichTextEditor\obj\Debug\ZEditor.g.resources
+D:\WorkSpace\MySources\MyWPFSource\WPF控件库\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.Properties.Resources.resources
+D:\WorkSpace\MySources\MyWPFSource\WPF控件库\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.csproj.GenerateResource.Cache
+D:\WorkSpace\MySources\MyWPFSource\WPF控件库\WPFRichTextEditor\obj\Debug\ZEditor.dll
+D:\WorkSpace\MySources\MyWPFSource\WPF控件库\WPFRichTextEditor\obj\Debug\ZEditor.pdb
+D:\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\bin\Debug\ZEditor.dll
+D:\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\bin\Debug\ZEditor.pdb
+D:\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.csprojResolveAssemblyReference.cache
+D:\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\Styles\AutoDisappearScrollViewerStyle.baml
+D:\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\Styles\ContextMenuStyle.baml
+D:\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\Styles\RichTextEditorStyle.baml
+D:\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\Styles\ScorllViewerStyle.baml
+D:\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\Veiws\ColorPicker.g.cs
+D:\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\Veiws\RichTextEditor.g.cs
+D:\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\ZEditor_MarkupCompile.cache
+D:\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\ZEditor_MarkupCompile.lref
+D:\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\Properties\DesignTimeResources.baml
+D:\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\Styles\FontComboBox.baml
+D:\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\Veiws\ColorPicker.baml
+D:\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\Veiws\RichTextEditor.baml
+D:\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\ZEditor.g.resources
+D:\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.Properties.Resources.resources
+D:\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.csproj.GenerateResource.Cache
+D:\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\ZEditor.dll
+D:\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\ZEditor.pdb
+E:\项目学习文件\WPF.UI-master\WPFRichTextEditor\bin\Debug\ZEditor.dll
+E:\项目学习文件\WPF.UI-master\WPFRichTextEditor\bin\Debug\ZEditor.pdb
+E:\项目学习文件\WPF.UI-master\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.csprojResolveAssemblyReference.cache
+E:\项目学习文件\WPF.UI-master\WPFRichTextEditor\obj\Debug\Styles\AutoDisappearScrollViewerStyle.baml
+E:\项目学习文件\WPF.UI-master\WPFRichTextEditor\obj\Debug\Styles\ContextMenuStyle.baml
+E:\项目学习文件\WPF.UI-master\WPFRichTextEditor\obj\Debug\Styles\RichTextEditorStyle.baml
+E:\项目学习文件\WPF.UI-master\WPFRichTextEditor\obj\Debug\Styles\ScorllViewerStyle.baml
+E:\项目学习文件\WPF.UI-master\WPFRichTextEditor\obj\Debug\Veiws\ColorPicker.g.cs
+E:\项目学习文件\WPF.UI-master\WPFRichTextEditor\obj\Debug\Veiws\RichTextEditor.g.cs
+E:\项目学习文件\WPF.UI-master\WPFRichTextEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\项目学习文件\WPF.UI-master\WPFRichTextEditor\obj\Debug\ZEditor_MarkupCompile.cache
+E:\项目学习文件\WPF.UI-master\WPFRichTextEditor\obj\Debug\ZEditor_MarkupCompile.lref
+E:\项目学习文件\WPF.UI-master\WPFRichTextEditor\obj\Debug\Properties\DesignTimeResources.baml
+E:\项目学习文件\WPF.UI-master\WPFRichTextEditor\obj\Debug\Styles\FontComboBox.baml
+E:\项目学习文件\WPF.UI-master\WPFRichTextEditor\obj\Debug\Veiws\ColorPicker.baml
+E:\项目学习文件\WPF.UI-master\WPFRichTextEditor\obj\Debug\Veiws\RichTextEditor.baml
+E:\项目学习文件\WPF.UI-master\WPFRichTextEditor\obj\Debug\ZEditor.g.resources
+E:\项目学习文件\WPF.UI-master\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.Properties.Resources.resources
+E:\项目学习文件\WPF.UI-master\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.csproj.GenerateResource.Cache
+E:\项目学习文件\WPF.UI-master\WPFRichTextEditor\obj\Debug\ZEditor.dll
+E:\项目学习文件\WPF.UI-master\WPFRichTextEditor\obj\Debug\ZEditor.pdb
+D:\Desktop\调试资料\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\bin\Debug\ZEditor.dll
+D:\Desktop\调试资料\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\bin\Debug\ZEditor.pdb
+D:\Desktop\调试资料\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.csproj.AssemblyReference.cache
+D:\Desktop\调试资料\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\Styles\AutoDisappearScrollViewerStyle.baml
+D:\Desktop\调试资料\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\Styles\ContextMenuStyle.baml
+D:\Desktop\调试资料\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\Styles\RichTextEditorStyle.baml
+D:\Desktop\调试资料\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\Styles\ScorllViewerStyle.baml
+D:\Desktop\调试资料\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\Veiws\ColorPicker.g.cs
+D:\Desktop\调试资料\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\Veiws\RichTextEditor.g.cs
+D:\Desktop\调试资料\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Desktop\调试资料\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\ZEditor_MarkupCompile.cache
+D:\Desktop\调试资料\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\ZEditor_MarkupCompile.lref
+D:\Desktop\调试资料\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\Properties\DesignTimeResources.baml
+D:\Desktop\调试资料\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\Styles\FontComboBox.baml
+D:\Desktop\调试资料\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\Veiws\ColorPicker.baml
+D:\Desktop\调试资料\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\Veiws\RichTextEditor.baml
+D:\Desktop\调试资料\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\ZEditor.g.resources
+D:\Desktop\调试资料\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.Properties.Resources.resources
+D:\Desktop\调试资料\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.csproj.GenerateResource.cache
+D:\Desktop\调试资料\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.csproj.CoreCompileInputs.cache
+D:\Desktop\调试资料\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\ZEditor.dll
+D:\Desktop\调试资料\WPF.UI-master\WPF.UI-master\WPFRichTextEditor\obj\Debug\ZEditor.pdb
+D:\Desktop\调试资料\UIPractice\WPFRichTextEditor\bin\Debug\ZEditor.dll
+D:\Desktop\调试资料\UIPractice\WPFRichTextEditor\bin\Debug\ZEditor.pdb
+D:\Desktop\调试资料\UIPractice\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.csproj.AssemblyReference.cache
+D:\Desktop\调试资料\UIPractice\WPFRichTextEditor\obj\Debug\Styles\AutoDisappearScrollViewerStyle.baml
+D:\Desktop\调试资料\UIPractice\WPFRichTextEditor\obj\Debug\Styles\ContextMenuStyle.baml
+D:\Desktop\调试资料\UIPractice\WPFRichTextEditor\obj\Debug\Styles\RichTextEditorStyle.baml
+D:\Desktop\调试资料\UIPractice\WPFRichTextEditor\obj\Debug\Styles\ScorllViewerStyle.baml
+D:\Desktop\调试资料\UIPractice\WPFRichTextEditor\obj\Debug\Veiws\ColorPicker.g.cs
+D:\Desktop\调试资料\UIPractice\WPFRichTextEditor\obj\Debug\Veiws\RichTextEditor.g.cs
+D:\Desktop\调试资料\UIPractice\WPFRichTextEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Desktop\调试资料\UIPractice\WPFRichTextEditor\obj\Debug\ZEditor_MarkupCompile.cache
+D:\Desktop\调试资料\UIPractice\WPFRichTextEditor\obj\Debug\ZEditor_MarkupCompile.lref
+D:\Desktop\调试资料\UIPractice\WPFRichTextEditor\obj\Debug\Properties\DesignTimeResources.baml
+D:\Desktop\调试资料\UIPractice\WPFRichTextEditor\obj\Debug\Styles\FontComboBox.baml
+D:\Desktop\调试资料\UIPractice\WPFRichTextEditor\obj\Debug\Veiws\ColorPicker.baml
+D:\Desktop\调试资料\UIPractice\WPFRichTextEditor\obj\Debug\Veiws\RichTextEditor.baml
+D:\Desktop\调试资料\UIPractice\WPFRichTextEditor\obj\Debug\ZEditor.g.resources
+D:\Desktop\调试资料\UIPractice\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.Properties.Resources.resources
+D:\Desktop\调试资料\UIPractice\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.csproj.GenerateResource.cache
+D:\Desktop\调试资料\UIPractice\WPFRichTextEditor\obj\Debug\WPFRichTextEditor.csproj.CoreCompileInputs.cache
+D:\Desktop\调试资料\UIPractice\WPFRichTextEditor\obj\Debug\ZEditor.dll
+D:\Desktop\调试资料\UIPractice\WPFRichTextEditor\obj\Debug\ZEditor.pdb
